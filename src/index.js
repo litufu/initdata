@@ -1,5 +1,5 @@
 "use strict";
-// import '@babel/polyfill';
+import '@babel/polyfill';
 import Papa from 'papaparse'
 import fs from 'fs'
 import { prisma } from '../generated/prisma-client'
